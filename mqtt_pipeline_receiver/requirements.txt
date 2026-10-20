@@ -1,0 +1,6 @@
+# --- requirements.txt ---
+python-dotenv
+psycopg2-binary
+numpy
+paho-mqtt
+scikit-learn
